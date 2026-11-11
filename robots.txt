@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /w/
+Disallow: /start/
+Sitemap: https://aurelius-enterprises.github.io/petition-alert/sitemap.xml
